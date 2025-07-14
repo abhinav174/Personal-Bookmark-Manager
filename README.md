@@ -29,8 +29,23 @@ java -cp target/bookmarkmanager-1.0.jar com.example.bookmarkmanager.MainUI
 - `MainUI.java` : Swing GUI
 
 ## 🖼 Screenshots
-*(Add screenshots here later)*
+
+1. Home Screen
+   <img width="984" height="617" alt="image" src="https://github.com/user-attachments/assets/7122cc8d-3987-4d3b-b5bd-26b9b656e875" />
+
+2. Adding a bookmark
+   <img width="984" height="617" alt="image" src="https://github.com/user-attachments/assets/c83aa55f-d8f3-4af6-9a96-ff9bb566fff2" />
+ 
+3. Searching a bookmark
+   <img width="984" height="617" alt="image" src="https://github.com/user-attachments/assets/93b8d136-691d-4799-a4ae-d377dc4e30f7" />
+
+4. List of all available bookmarks
+   <img width="984" height="617" alt="image" src="https://github.com/user-attachments/assets/483954bd-be50-4ddd-910b-c2b3199ad8b7" />
+
+5. CSV File Contents:
+   <img width="1232" height="637" alt="image" src="https://github.com/user-attachments/assets/8a153795-a46b-43fa-a112-08d47144a75f" />
+
 
 ---
 
-Built by [Your Name].
+Built by G.Abhinav.
